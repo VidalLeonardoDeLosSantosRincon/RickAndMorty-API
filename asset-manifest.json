@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RickAndMorty-API/static/css/main.53f00067.chunk.css",
+    "main.js": "/RickAndMorty-API/static/js/main.c900f54a.chunk.js",
+    "main.js.map": "/RickAndMorty-API/static/js/main.c900f54a.chunk.js.map",
+    "runtime~main.js": "/RickAndMorty-API/static/js/runtime~main.de45ba3b.js",
+    "runtime~main.js.map": "/RickAndMorty-API/static/js/runtime~main.de45ba3b.js.map",
+    "static/js/2.2d14f628.chunk.js": "/RickAndMorty-API/static/js/2.2d14f628.chunk.js",
+    "static/js/2.2d14f628.chunk.js.map": "/RickAndMorty-API/static/js/2.2d14f628.chunk.js.map",
+    "index.html": "/RickAndMorty-API/index.html",
+    "precache-manifest.7e0bbfca02711e375656166d3cdce987.js": "/RickAndMorty-API/precache-manifest.7e0bbfca02711e375656166d3cdce987.js",
+    "service-worker.js": "/RickAndMorty-API/service-worker.js",
+    "static/css/main.53f00067.chunk.css.map": "/RickAndMorty-API/static/css/main.53f00067.chunk.css.map",
+    "static/media/banner_img.jpg": "/RickAndMorty-API/static/media/banner_img.211b45aa.jpg",
+    "static/media/loading.gif": "/RickAndMorty-API/static/media/loading.b4a94b78.gif"
+  }
+}
