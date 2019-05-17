@@ -1,0 +1,63 @@
+.character_box{
+    background:rgba(0,0,0,0.2);
+    width:150px;
+    height:150px;
+    margin:10px;
+    border:5px solid white;
+    border-radius:100%;
+    box-shadow:1px 1px 5px rgba(0,0,0,0.3);
+    box-sizing:border-box;
+    overflow:hidden;
+    background-size:cover; 
+    background-position:center;
+    display:flex;
+    align-items:flex-end;
+    cursor: pointer;
+    
+}
+
+.character_box:hover{
+     box-shadow:0px 10px 5px rgba(0,0,0,0.4) ;
+    transform:translateY(-5px);
+    -webkit-trasform:translateY(-5px);
+    -moz-trasform:translateY(-5px);
+    -ms-trasform:translateY(-5px);
+    -o-trasform:translateY(-5px);
+    transition:all 0.2s linear;
+    -webkit-transition:all 0.2s linear;
+    -moz-transition:all 0.2s linear;
+    -ms-transition:all 0.2s linear;
+    -o-transition:all 0.2s linear;
+}
+
+
+
+.character_box .character_name{
+  background:transparent;
+    height:100%;
+    width:100%;
+    border-radius:100%;
+    color:transparent;
+    font-weight:100;
+    box-sizing: border-box;
+    font-size:18px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:5px 50%;
+
+
+}
+
+
+.character_name:hover{
+    color:white;
+    height: 100%;
+    background: rgba(0,0,0,0.4); 
+    transition:all 0.2s linear;
+    -webkit-transition:all 0.2s linear;
+    -moz-transition:all 0.2s linear;
+    -ms-transition:all 0.2s linear;
+    -o-transition:all 0.2s linear;
+  }
+

@@ -1,0 +1,31 @@
+.search_box{
+    background:white;
+    padding:10px 15px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+.field_search{
+    width:400px;
+    height:25px;
+    border:1px solid rgba(0,0,0,0.1);
+    border-radius:3px 0 0 3px;
+    padding:5px 8px;
+    box-sizing:border-box;
+    outline:none;
+    color:gray;
+}
+
+.search_button{
+    width:80px;
+    height:25px;
+    background: dodgerblue;
+    border:none;
+    border-radius:0 3px 3px 0;
+    padding:5px;
+    box-sizing:border-box;
+    color:white;
+    cursor: pointer;
+}
