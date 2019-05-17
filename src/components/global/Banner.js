@@ -3,6 +3,7 @@ import React,{Fragment} from 'react';
 
 //assets
 import './css/Banner.css';
+import './css/BannerResponsive.css';
 import bannerImg from './img/banner_img.jpg';
 
 const Banner = (props)=>{
