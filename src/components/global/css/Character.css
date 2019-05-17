@@ -12,8 +12,7 @@
     background-position:center;
     display:flex;
     align-items:flex-end;
-    cursor: pointer;
-    
+    cursor: pointer;  
 }
 
 .character_box:hover{
@@ -28,6 +27,7 @@
     -moz-transition:all 0.2s linear;
     -ms-transition:all 0.2s linear;
     -o-transition:all 0.2s linear;
+    
 }
 
 
@@ -45,8 +45,6 @@
     justify-content:center;
     align-items:center;
     padding:5px 50%;
-
-
 }
 
 

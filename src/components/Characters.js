@@ -3,6 +3,7 @@ import React,{Component, Fragment} from 'react';
 
 //assets
 import './global/css/Characters.css';
+import './global/css/CharactersResponsive.css';
 
 //components
 import Character from './Character';
